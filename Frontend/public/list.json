@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Math",
+        "title": "This is a math book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Biology",
+        "title": "This is a biology book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 3,
+        "name": "English",
+        "title": "This is an English book",
+        "price": 0,
+        "category": "Language",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Physics",
+        "title": "This is a physics book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Chemistry",
+        "title": "This is a chemistry book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Comics",
+        "title": "This is a comic book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Robotics",
+        "title": "This is a robotics book",
+        "price": 0,
+        "category": "Robots",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Computer Science",
+        "title": "This is a computer science book",
+        "price": 0,
+        "category": "CS",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Economics",
+        "title": "This is an economics book",
+        "price": 0,
+        "category": "Others",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Geography",
+        "title": "This is geography book",
+        "price": 0,
+        "category": "Others",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Political Science",
+        "title": "This is a political sciences book",
+        "price": 0,
+        "category": "Others",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Data Science",
+        "title": "This is a Data Science book",
+        "price": 0,
+        "category": "Others",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715624988~exp=1715628588~hmac=03f917d77dce204c578c5a74d425ce7aa0753e1e89f5c970c38682bf5635c4ff&w=740"
+    }
+
+]
