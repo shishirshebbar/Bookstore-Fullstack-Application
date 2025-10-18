@@ -19,12 +19,12 @@ export default function HomePage() {
              
              </div>
              <div className='order-1 w-full md:w-1/2'>
-    <img 
+    {/* <img 
         src={image} 
         className='w-92 h-92' 
         style={{ marginLeft: '20px', marginTop: '60px', backgroundColor: 'black' }}  // Added background color
         alt=""
-    />
+    /> */}
 </div>
 
         
